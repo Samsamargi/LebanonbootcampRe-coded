@@ -1,0 +1,36 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  padding: 18px;
+}
+
+section {
+  margin: 24px 0;
+}
+
+li {
+  list-style: none;
+  padding-right: 24px;
+}
+
+.paragraph {
+  font-size: 20px;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.footer {
+  display: flex;
+  margin-top: 12px;
+}
