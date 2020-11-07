@@ -1,0 +1,76 @@
+body{
+  display:flex; 
+}
+aside {
+  
+  justify-content: flex-start;
+  background: grey;
+  width: 20vw ;
+  height:100vh ;
+  align-items: stretch;
+  padding: 20px;
+  padding-top: 40%;
+  text-align: right;
+}
+main { 
+  justify-content: center;
+  width: 80vw;
+  height: 100%;
+  margin: 20px;
+  padding: 20px;
+  margin-top: 30px;
+}
+
+.button {
+  border: 1px solid blue;
+  margin: 5px;
+  
+}
+h2{
+  font-family: Arial;
+}
+h3{
+  color:white;
+}
+.align-img{
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.cssLogo{
+  background: #5aba59;
+  color: white;
+  padding:0 2%;
+}
+.jsLogo{
+  background: #4d85d1;
+  color: white;
+   padding:0 2%;
+}
+#jsLogo2{
+  background-color: #df2d4f;
+  color: white;
+  padding:0 2%;
+}
+#notVisited{
+  background: grey;
+  color: white;
+  padding:0 2%;
+}
+#link{
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+}
+#p1, #p2 {
+  width: 35vw;
+  height: 40vh;
+  margin: 20px;
+}
+aside{
+  margin-right: 30px; 
+}
+
+hr{
+  color: #dfe1e6;
+}
