@@ -1,0 +1,133 @@
+*,
+*:before,
+*:after {
+  padding: 0;
+  margin: 0;
+  box-sizing: content-box;
+}
+
+body {
+  display: flex;
+  font-family: "Roboto", sans-serif;
+}
+
+section {
+  margin-bottom: 60px;
+}
+
+#my-blog {
+  color: white;
+  font-size: 1.75rem;
+}
+
+#verbal {
+  color: #9bb7c3;
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+.button {
+  color: white;
+  font-weight: 500;
+  font-size: 0.75rem;
+  padding: 4px 10px;
+  text-decoration: none;
+  border: 2px solid #9bb7c3;
+  margin-left: 4px;
+}
+
+.button-group {
+  margin-top: 12px;
+}
+
+#side {
+  width: 15vw;
+  height: 100vh;
+  background-color: #3d4f5d;
+  text-align: right;
+  padding: 300px 20px;
+}
+
+.container {
+  padding: 40px;
+}
+
+.pinned {
+  color: #bbc3cb;
+  display: block;
+  font-weight: 500;
+  border-bottom: 1px solid #bbc3cb;
+  padding-bottom: 4px;
+  margin-bottom: 20px;
+}
+
+.blogTitle {
+  font-size: 1.75rem;
+  margin-bottom: 4px;
+}
+
+.context {
+  line-height: 2;
+}
+
+.avatar {
+  width: 48px;
+  height: 48px;
+}
+
+.by {
+  color: lightgray;
+}
+
+.byWho {
+  color: lightskyblue;
+  text-decoration: none;
+}
+
+.cssLogo {
+  color: white;
+  background-color: #5aba59;
+  padding: 0 10px;
+}
+
+.jsLogo {
+  color: white;
+  background-color: #4d85d1;
+  padding: 0 10px;
+}
+
+#jsLogo2 {
+  color: white;
+  background-color: #df2d4f;
+  padding: 0 10px;
+}
+
+#notVisited {
+  color: white;
+  background-color: #999999;
+  padding: 0 10px;
+}
+
+.flex-title {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.flex-image {
+  display: flex;
+}
+
+#p1,
+#p2 {
+  width: 600px;
+  padding-right: 20px;
+}
+
+#link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #999999;
+  margin-top: 60px;
+}
