@@ -1,0 +1,90 @@
+
+
+body{
+    display: flex;
+    justify-content: center;
+   
+  
+  }
+  aside{
+    background-color: gray;
+    margin: 0px 10px 0px 0px;
+    width:500px;
+    text-align: right;
+    padding: 350px 20px;
+    
+  }
+  aside h3{
+    color: white;
+   padding: 0px;
+   margin:0px;
+  }
+  aside a{
+    color: white;
+    padding: 0px;
+   margin:0px;
+   border: 2px solid rgb(80, 191, 243);
+   font-size:13px; 
+  }
+  aside p{
+    color:rgb(80, 191, 243);
+    font-size: 20px;
+    padding: 0px;
+   margin:0px;
+  }
+  
+  .cssLogo{
+    background: green;
+    
+    padding: 0px 10px;
+  }
+  
+  .jsLogo{
+    background: blue;
+    padding: 0px 10px;
+  }
+  #jsLogo2{
+    background: pink;
+    padding: 0px 10px;
+  }
+  
+  .pinned{
+    color: gray;
+  }
+  
+  
+  .avatar{
+      float: right;
+      border-radius: 50%;
+      width: 20px;
+      height: 20px;
+      margin: -50px 0px;;
+    }
+  
+  
+  #notVisited{
+    background: grey;
+  
+  }
+  #notVisited img{
+    width: 20%;
+    justify-content: space-around;
+  }
+  
+  #link{
+    color:grey;
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+  }
+  
+  #flex-image{
+    display: flex;
+    
+  }
+  #p1,
+  #p2 {
+    width: 300px;
+    padding-right: 20px;
+  };
