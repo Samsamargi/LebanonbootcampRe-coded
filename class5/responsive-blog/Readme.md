@@ -1,4 +1,4 @@
 ## make the full-blog responsive
 
 The result should look something like this
-https://imgur.com/a/qJzNGXi
+[!image on the result](https://imgur.com/a/qJzNGXi)
