@@ -2,4 +2,4 @@
 
 ### PS: don't have to make it responsive
 
-[!image on the result](https://imgur.com/a/0FiALK4)
+![image on the result](https://imgur.com/a/0FiALK4)
